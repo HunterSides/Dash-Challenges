@@ -1,9 +1,0 @@
-// Fixes Cross Browser/Device Delegated Click Issues (ios, opera)
-[data-click] {
-    cursor: pointer;
-    pointer-events: auto;
-}
-
-[data-stopclick] {
-     cursor: auto;
- }

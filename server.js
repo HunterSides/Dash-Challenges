@@ -24,3 +24,11 @@ app.get('*', (req, res) => {
 app.listen(port, () => {
   console.log('listening on', port)
 })
+
+/*
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static(dist))
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(dist, '/index.html'))
+  })
+}*/

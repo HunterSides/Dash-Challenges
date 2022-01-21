@@ -1,12 +1,12 @@
 [NOTICE] This is the most recent and up to date version of the challenge-goal-platform, previous version [here](https://github.com/gaquarius/challenge-platform/) hosted at [here](https://challenge-platform.herokuapp.com/) is out of date and no longer maintained.
 
-The newest heroku build is hosted at [here](http://boiling-depths-08237.herokuapp.com/) or
+The newest heroku build is hosted at [here](https://dash-challenges.herokuapp.com/) 
 
 ## Installation
 
 ```
-1) git clone https://github.com/HunterSides/dash-challenges-platform.git
-2) cd dash-challenges-platform
+1) git clone https://github.com/HunterSides/Dash-Challenges.git
+2) cd Dash-Challenges
 3) yarn / npm i
 ```
 
@@ -20,8 +20,7 @@ Steps to run:
 3) from there you should be given an address which you will need to fund via `https://testnet-faucet.dash.org/` or `http://faucet.test.dash.crowdnode.io/` to be able to connect to Dash Platform
 4) now reload the page and create your wallet which will be your login credentials for the site.
 
-***note***
-If you receive any network related issues, close the error and attempt to let the page reload (this can take a while). If you continue to receive the error, ctrl+c in your console to close the program, clear your browsers localstorage/cache/refresh cache and repeat steps 1-4.
+
 ```
 
 ### Unit Test

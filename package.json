@@ -1,5 +1,5 @@
 {
-  "author": "gaquarius",
+  "author": "Hunter Sides",
   "keywords": [
     "react",
     "reactjs",
@@ -11,6 +11,9 @@
   "name": "dash-challenge-platform",
   "version": "1.0.1",
   "description": "Dash Goal/Challenge Platform",
+  "engines": {
+    "node": ">=15.0.0"
+  },
   "dependencies": {
     "@date-io/date-fns": "1.3.13",
     "@material-ui/core": "^4.12.3",
