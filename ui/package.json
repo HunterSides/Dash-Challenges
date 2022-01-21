@@ -1,0 +1,55 @@
+{
+  "_from": "git+https://github.com/esportsplus/ui.git",
+  "_id": "ui@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "ui@git+https://github.com/esportsplus/ui.git",
+    "name": "ui",
+    "escapedName": "ui",
+    "rawSpec": "git+https://github.com/esportsplus/ui.git",
+    "saveSpec": "git+https://github.com/esportsplus/ui.git",
+    "fetchSpec": "https://github.com/esportsplus/ui.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://github.com/esportsplus/ui.git#ed12db019f594d7905fbe36f13a0a3716bf4a90b",
+  "_spec": "ui@git+https://github.com/esportsplus/ui.git",
+  "_where": "A:\\Dev\\Projects\\dapp-project\\dapp-image-uploader",
+  "author": {
+    "name": "ICJR"
+  },
+  "bugs": {
+    "url": "https://github.com/esportsplus/ui/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "autoprefixer": "^8.6.4",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^5.1.0",
+    "css-minimizer-webpack-plugin": "^1.2.0",
+    "cssnano": "^4.1.10",
+    "mini-css-extract-plugin": "^1.3.9",
+    "modern-normalize": "^1.0.0",
+    "path-browserify": "^1.0.1",
+    "postcss-loader": "^5.0.0",
+    "run-for-every-file": "^1.1.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "esportsplus ui library",
+  "homepage": "https://github.com/esportsplus/ui#readme",
+  "name": "ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esportsplus/ui.git"
+  },
+  "version": "0.0.1"
+}
