@@ -1,6 +1,6 @@
 [NOTICE] This is the most recent and up to date version of the challenge-goal-platform, previous version [here](https://github.com/gaquarius/challenge-platform/) hosted at [here](https://challenge-platform.herokuapp.com/) is out of date and no longer maintained.
 
-The newest heroku build is hosted at [here](https://dash-challenges.herokuapp.com/) 
+The newest heroku build is hosted at [here](http://dash-challenges.herokuapp.com/)
 
 ## Installation
 
